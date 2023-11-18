@@ -7,7 +7,7 @@ This rep contains all my practice codes, material, and notebooks, from Python ba
   
   -> Lists, Dictionaries, Tuples, Hashmaps, etc are covered         here
 
-19/11/23-- Added Implementing simple classifiers:
+19/11/23-- Added Implementing simple classifiers, perceptron.py, iris.ipynb:
 
   -> This notebook has implementations of simple classifiers in Python. I have written code and notes from scratch to understand the details. PS: haven't used Scikit-learn here!
   

@@ -15,3 +15,10 @@ This rep contains all my practice codes, material, and notebooks, from Python ba
   
   -> Models are trained using a subset of the Iris dataset, using only sepal and petal lengths as the features.
   
+24/2/23-- Added Support Vector Machine implementations using Scikit learn
+  -> This notebook has an example problem wherein the XOR dataset (custom-generated data) needs to be classified.
+  
+  -> This deals with classifying the nonlinear data using linear SVMs and optimizing it using kernels
+
+  -> The effect of gamma in classification and the overfitting is note-worthy in this example
+  
